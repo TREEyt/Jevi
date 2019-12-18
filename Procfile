@@ -1,1 +1,1 @@
-web: node ./app.js Bellicosa https://entjevi.herokuapp.com
+web: node ./app.js brawltree https://brawltree.herokuapp.com
